@@ -1,0 +1,12 @@
+[submodule "Resources/Private/Contrib/PHPExcel"]
+	path = Resources/Private/Contrib/PHPExcel
+	url = https://github.com/PHPOffice/PHPExcel.git
+[submodule "Resources/Private/Contrib/PHPWord"]
+	path = Resources/Private/Contrib/PHPWord
+	url = https://github.com/PHPOffice/PHPWord.git
+[submodule "Resources/Private/Contrib/PHPProject"]
+	path = Resources/Private/Contrib/PHPProject
+	url = https://github.com/PHPOffice/PHPProject.git
+[submodule "Resources/Private/Contrib/PHPVisio"]
+	path = Resources/Private/Contrib/PHPVisio
+	url = https://github.com/PHPOffice/PHPVisio.git
