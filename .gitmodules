@@ -10,6 +10,6 @@
 [submodule "Resources/Private/Contrib/PHPVisio"]
 	path = Resources/Private/Contrib/PHPVisio
 	url = https://github.com/PHPOffice/PHPVisio.git
-[submodule "PHPPowerPoint"]
+[submodule "Resources/Private/Contrib/PHPPowerPoint"]
 	path = Resources/Private/Contrib/PHPPowerPoint
 	url = https://github.com/PHPOffice/PHPPowerPoint.git
